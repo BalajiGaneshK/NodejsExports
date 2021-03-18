@@ -1,7 +1,7 @@
 
 let operations = require("./calculations");
 let num1 = 1000;
-let num2 = 5;
+let num2 = 10;
 
 console.log("Addition:", operations.add(num1, num2));
 console.log("Subtraction:", operations.sub(num1, num2));
