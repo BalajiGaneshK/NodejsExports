@@ -1,6 +1,6 @@
 
 let operations = require("./calculations");
-let num1 = 1000;
+let num1 = 10000;
 let num2 = 10;
 
 console.log("Addition:", operations.add(num1, num2));
